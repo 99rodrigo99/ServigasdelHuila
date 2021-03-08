@@ -11,6 +11,16 @@ SERVIGAS DEL HUILA
 Se está realizando una página web para la empresa servigas del huila donde se presenta la información de la empresa y los servicios que esta presta, esta contara con un sistema de registro e inicio de sesión para los usuarios.
 Se adiciono la librería Layout, añadieron URLS amigables desde el archivo routes.php remplazando la estructura index.php/controlador/función y se editó el fichero .htaccess para reescribir las URLS.
 
+CONTROLADORES.
+
+- Controller_1: Este controlador llama a todas las vistas del menu excepto Login y Register.
+
+$this->layout->view('inicio');
+
+De esta manera llamamos nuestro Layout y la vista deasada.
+
+-Auth: Este controlador llama a las vistas Login y Register
+
 VISTAS. 
 
 /Auth
