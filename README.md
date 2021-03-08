@@ -19,7 +19,7 @@ $this->layout->view('inicio');
 
 De esta manera llamamos nuestro Layout y la vista deasada.
 
--Auth: Este controlador llama a las vistas Login y Register
+- Auth: Este controlador llama a las vistas Login y Register
 
 VISTAS. 
 
