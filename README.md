@@ -44,6 +44,7 @@ VISTAS.
 En esta vista se encuentran el llamado de los archivos css, js, y la barra de navegación la cual cuenta con un menú que redirecciona a cada una de las seis vistas, además cuenta con un botón el cual nos redirecciona hacia WhatsApp para realizar la solicitud de un técnico.
 
 TABLAS.
+
 A futuro se utilizaran las siguientes tablas:
 
 - Usuarios
