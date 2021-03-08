@@ -3,7 +3,7 @@
 
         <div class="section-title" data-aos="fade-up">
             <h2>Servicios</h2>
-            <p>Contamos con tecnicos capacitados para realizar nuestro servicos de refrigeración.</p>
+            <p>Contamos con tecnicos capacitados para realizar nuestro servicos.</p>
         </div>
 
         <div class="row">

@@ -54,7 +54,7 @@ $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 $route['contactenos'] = 'Controller_1/contacto';
 $route['servicios'] = 'Controller_1/servicios';
-$route['nuestra_empresa'] = 'Controller_1/QuienesSomos';
+$route['nuestra_empresa'] = 'Controller_1/nuestra_empresa';
 
 
 $route['auth_controller'] = 'auth';

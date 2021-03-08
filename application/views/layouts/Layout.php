@@ -42,7 +42,7 @@
             <nav class="nav-menu d-none d-lg-block">
                 <ul>
                     <li><a href="/servigasdelhuila">Inicio</a></li>
-                    <li><a href="nuestra_empresa">Sobre nosotros</a></li>
+                    <li><a href="nuestra_empresa">Nuestra empresa</a></li>
                     <li><a href="servicios">Servicios</a></li>
                     <li><a href="contactenos">Contactenos</a></li>
                     <li class="drop-down"><a>Usuario</a>

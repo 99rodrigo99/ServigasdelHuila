@@ -29,9 +29,9 @@ class Controller_1 extends CI_Controller {
 		$this->layout->view('servicios');
 	}
 
-	public function quienesSomos()
+	public function nuestra_empresa()
 	{
-		$this->layout->view('Quienes_somos');
+		$this->layout->view('nuestra_empresa');
 	}
 
 	public function contacto()
