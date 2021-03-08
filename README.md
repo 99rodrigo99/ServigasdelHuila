@@ -14,20 +14,20 @@ Se adiciono la librería Layout, añadieron URLS amigables desde el archivo rout
 VISTAS. 
 
 /Auth
-•	Login: Esta vista contiene un formulario de inicio de sesión para que los usuarios registrados ingresen con los datos email y contraseña.
+-	Login: Esta vista contiene un formulario de inicio de sesión para que los usuarios registrados ingresen con los datos email y contraseña.
 
-•	Register: Esta vista contiene un formulario de registro para nuevos usuarios.
+-	Register: Esta vista contiene un formulario de registro para nuevos usuarios.
 
 
 /Controller_1
-•	inicio: Esta vista contiene Un mensaje de bienvenida junto con el logo de la empresa, un botón que redirige a los usuarios hacia la vista quienes_somos, en la parte inferior contiene una barra donde se encuentran las marcas aliadas de la empresa.
+-	inicio: Esta vista contiene Un mensaje de bienvenida junto con el logo de la empresa, un botón que redirige a los usuarios hacia la vista quienes_somos, en la parte inferior contiene una barra donde se encuentran las marcas aliadas de la empresa.
 
-•	nuestra_empresa: En esta vista se presenta una breve descripción de la empresa y un botón que redirecciona a los usuarios hacia la vista servicios.
-•	servicios: Esta vista contiene los servicios que presta la empresa estos están contenidos en cards.
+-	nuestra_empresa: En esta vista se presenta una breve descripción de la empresa y un botón que redirecciona a los usuarios hacia la vista servicios.
+-	servicios: Esta vista contiene los servicios que presta la empresa estos están contenidos en cards.
 
-•	contacto: En esta vista se presenta la información de contacto de la empresa como dirección número telefónico correo y electrónico, cuenta con un formulario de contacto para comunicarse vía email.
+-	contacto: En esta vista se presenta la información de contacto de la empresa como dirección número telefónico correo y electrónico, cuenta con un formulario de contacto para comunicarse vía email.
 
 
 /Layouts
-•	Layout: 
+-	Layout: 
 En esta vista se encuentran el llamado de los archivos css, js, y la barra de navegación la cual cuenta con un menú que redirecciona a cada una de las seis vistas, además cuenta con un botón el cual nos redirecciona hacia WhatsApp para realizar la solicitud de un técnico.
