@@ -13,7 +13,7 @@ Se adiciono la librería Layout, añadieron URLS amigables desde el archivo rout
 
 CONTROLADORES.
 
-- Controller_1: Este controlador llama a todas las vistas del menu excepto Login y Register.
+- Controller_1: Este controlador llama a todas las vistas del menú excepto Login y Register.
 
 $this->layout->view('inicio');
 
