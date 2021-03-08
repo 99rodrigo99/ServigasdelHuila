@@ -3,7 +3,7 @@ Proyecto Programación 1 FET
 
 - Estudiante: Rodrigo Humberto González Tafur 
 - Programa: ING de software 
-- Semestre 3 
+- Semestre: 3 
 - Jornada: Noche
 
 SERVIGAS DEL HUILA
